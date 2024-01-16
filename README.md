@@ -62,8 +62,8 @@ Solana Blockchain based raffle system. Developed on MERN stack using typscript
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project. You can find me on:
 
 - Email: sheharyar.khan1098@gmail.com
-- LinkedIn: Sheharyar-khan(https://www.linkedin.com/in/sheharyar-khan-5b08a7108)
-- Twitter: Sheharyar-khan(https://www.facebook.com/sheharyar.khan420)
+- LinkedIn: Sheharyarkhan(https://www.linkedin.com/in/sheharyar-khan-5b08a7108)
+- Facebook: Sheharyarkhan(https://www.facebook.com/sheharyar.khan420)
 
 ## License
 
