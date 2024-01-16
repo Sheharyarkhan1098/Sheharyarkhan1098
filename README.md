@@ -1,4 +1,4 @@
-# MERN Stack Developer's Portfolio
+# Sheharyar Khan ( Full-stack Developer )
 
 ## Overview
 
