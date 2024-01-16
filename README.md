@@ -9,7 +9,6 @@ Welcome to my MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer GitH
 - [About Me](#about-me)
 - [Skills](#skills)
 - [Projects](#projects)
-- [Getting Started](#getting-started)
 - [Contact](#contact)
 - [License](#license)
 
@@ -57,28 +56,6 @@ BSC based dapp developed on reactjs
 Solana Blockchain based raffle system. Developed on MERN stack using typscript
 
 ...
-
-## Getting Started
-
-If you'd like to run any of the projects locally or explore the code, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/mern-stack-portfolio.git
-   cd mern-stack-portfolio
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-3. **Run the application:**
-   ```bash
-   npm start
-   ```
-
-   The application should now be running on [http://localhost:3000](http://localhost:3000).
 
 ## Contact
 
