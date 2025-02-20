@@ -2,7 +2,9 @@
 
 ## Overview
 
-Welcome to my MERN (MongoDB, Express.js, React.js, Node.js) Stack Developer GitHub repository! This repository showcases my skills and projects as a MERN Stack Developer. Whether you are a fellow developer, a potential employer, or just curious about my work, you've come to the right place.
+Passionate about building scalable web applications, I specialize in full-stack development, seamlessly integrating blockchain technology and AI solutions to create innovative and future-ready products. With expertise in smart contracts, decentralized applications (dApps), and AI-powered automation, I turn ideas into powerful digital experiences.
+
+Whether it's crafting robust backend architectures, designing intuitive front-end interfaces, or implementing cutting-edge AI and blockchain integrations, I thrive on solving complex challenges with modern tech. Let's build the future together!
 
 ## Table of Contents
 
@@ -63,14 +65,14 @@ Hello, I'm Sheharyar, a passionate MERN Stack Developer with a deep love for cre
 
 ## Projects
 
-### [Bounty-hunter-dapp](https://github.com/Sheharyarkhan1098/bunty-hunter-nft-battle-pass)
+### [Kodezi](https://kodezi.com)
 
-BSC based dapp developed on reactjs
+Kodezi is an AI-powered coding assistant that helps developers write better code faster. It works like Grammarly, but for code. Kodezi analyzes your code in real-time and provides suggestions to fix bugs, optimize efficiency, translate between languages, generate documentation, and more.
 
 
-### [Chill-dogs-raffle](https://github.com/Sheharyarkhan1098/chill-dogs)
+### [Lionverse](https://proudlionsclub.com)
 
-Solana Blockchain based raffle system. Developed on MERN stack using typscript
+Lionverse, spearheaded by Proud Lion Studios, is a distinguished project within the Aptos ecosystem, acclaimed for its innovative Play-to-Earn Metaverse initiative, including a dynamic NFT collection.
 
 ...
 
