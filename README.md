@@ -1,6 +1,6 @@
 
 <h1 align="center"> <img src="https://user-images.githubusercontent.com/83841336/140920976-150950ae-b5b2-47dc-83e0-849b79cecb4d.gif" alt="hello-gif" height="220" width="800"  ><br >I'm <a href="https://www.linkedin.com/in/sheharyar-khan-5b08a7108/">Sheharyar Khan</a>👨‍💻</h1>
-# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi there!&nbsp; 
 ## Overview
 
 Passionate about building scalable web applications, I specialize in full-stack development, seamlessly integrating blockchain technology and AI solutions to create innovative and future-ready products. With expertise in smart contracts, decentralized applications (dApps), and AI-powered automation, I turn ideas into powerful digital experiences.
